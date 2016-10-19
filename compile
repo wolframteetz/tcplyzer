@@ -1,0 +1,2 @@
+lex tcplyzer.lex; cc lex.yy.c; mv a.out 1
+lex hexonly.lex; cc lex.yy.c; mv a.out 2
